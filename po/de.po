@@ -17,8 +17,13 @@ msgstr ""
 "Project-Id-Version: GnuCash 3.5\n"
 "Report-Msgid-Bugs-To: https://bugs.gnucash.org/enter_bug.cgi?"
 "product=GnuCash&component=Translations\n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2019-04-08 17:37+0200\n"
 "PO-Revision-Date: 2019-03-06 02:16+0100\n"
+=======
+"POT-Creation-Date: 2018-12-29 16:40-0800\n"
+"PO-Revision-Date: 2018-12-30 22:18+0100\n"
+>>>>>>> start new translation
 "Last-Translator: Christian Stimming <christian@cstimming.de>\n"
 "Language-Team: GnuCash-de <gnucash-de@gnucash.org>\n"
 "Language: de\n"
@@ -29661,18 +29666,30 @@ msgstr "Tag-Monat"
 msgid "m-d"
 msgstr "Monat-Tag"
 
+<<<<<<< HEAD
 #: libgnucash/engine/gnc-datetime.cpp:554
+=======
+#: libgnucash/engine/gnc-datetime.cpp:458
+>>>>>>> start new translation
 msgid "Unknown date format specifier passed as argument."
 msgstr "Unbekanntes Datumsformat als Argument übergeben."
 
 #. regex didn't find a match
+<<<<<<< HEAD
 #: libgnucash/engine/gnc-datetime.cpp:559
+=======
+#: libgnucash/engine/gnc-datetime.cpp:463
+>>>>>>> start new translation
 msgid "Value can't be parsed into a date using the selected date format."
 msgstr ""
 "Der Wert kann nicht in ein Datum unter Verwendung des ausgewählten "
 "Datumsformats umgewandelt werden."
 
+<<<<<<< HEAD
 #: libgnucash/engine/gnc-datetime.cpp:564
+=======
+#: libgnucash/engine/gnc-datetime.cpp:468
+>>>>>>> start new translation
 msgid "Value appears to contain a year while the selected format forbids this."
 msgstr ""
 "Der Wert scheint eine Jahreszahl zu enthalten, während das ausgewählte "
