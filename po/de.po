@@ -631,6 +631,10 @@ msgid ""
 "use. Click the triangle at the far right of the column headings to change "
 "the display."
 msgstr ""
+"Sie können den Wertpapier-Editor so einstellen, dass die Kurs-Quelle eines "
+"Wertpapiers angezeigt wird, so dass Sie leicht erkennen können, welche "
+"Online-Quellen Ihre Wertpapiere verwenden. Klicken Sie auf das Dreieck ganz "
+"rechts neben den Spaltenüberschriften, um die Anzeige zu ändern. "
 
 #: doc/tip_of_the_day.list.c:79
 msgid ""
@@ -19037,7 +19041,6 @@ msgstr "Kontoumsätze online abfragen via HBCI/Onlinebanking"
 
 #. Translators: https://en.wikipedia.org/wiki/Single_Euro_Payments_Area
 #: gnucash/import-export/aqb/gnc-plugin-aqbanking.c:113
-#, fuzzy
 msgid "Issue _SEPA Transaction..."
 msgstr "SE_PA Einzelüberweisung..."
 
@@ -26507,7 +26510,6 @@ msgstr "Sekundäre Sortierreihenfolge"
 
 #. Define the strings here to avoid typos and make changes easier.
 #: gnucash/report/standard-reports/income-gst-statement.scm:38
-#, fuzzy
 msgid "Income and GST Statement"
 msgstr "Einkommens- und Umsatzsteuererklärung"
 
